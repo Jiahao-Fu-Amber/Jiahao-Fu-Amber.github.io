@@ -1,0 +1,41 @@
+body {
+  /* background-color: rgba(129 216 209); */
+
+}
+
+h3 {
+  background-color: rgba(152,251,152,.5);
+  border:  solid white;
+  padding: 2vw;
+  margin: 2vh;
+}
+main {
+    background-color: rgba(129 216 209);;
+    border:  solid white;
+    border-radius:
+
+}
+p {
+  background-color: rgba(50,205,50.5);
+  position: absolute;
+  bottom: 30px;
+  left: 220px;
+  font-family: Avenir;
+}
+body {
+	/* background-color: black; */
+    background-color: rgba(129 216 209);;
+	color: white;
+	font-size: 78px;
+}
+
+div {
+  /* background-color: pink; */
+  text-align: center;
+}
+img {
+  margin: 100px;
+}
+/* function preload() {
+  theimage = image("s.jpn")
+} */
