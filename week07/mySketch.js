@@ -1,5 +1,6 @@
 let objs = [];
 let ox, oy;
+<<<<<<< HEAD
 let s = 'The quick brown fox jumped over the lazy dog.';
 
 function setup() {
@@ -10,6 +11,14 @@ function setup() {
 	fill(50);
 	text(s, 10, 10, 70, 80);
 
+=======
+
+function setup() {
+	createCanvas(windowWidth, windowHeight);
+	colorMode(HSB, 360, 200, 200, 100);
+	rectMode(CENTER);
+	frameRate(30);
+>>>>>>> 0e9ba32b26448ceead0f1e7c8ba3f2d72a761f3a
 
 	ox = width / 2;
 	oy = height / 2;
