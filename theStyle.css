@@ -27,7 +27,7 @@ p {
 nav {
   display: flex;
   /* flex-direction: column; */
-  background-color: pink;
+  background-color: rgba(129,216,207,.5);
   width: 8vw;
 }
 .weeks {
